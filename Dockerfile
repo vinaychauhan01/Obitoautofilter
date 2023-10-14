@@ -1,6 +1,6 @@
 FROM python:3.11.2
 
-WORKDIR /TamilanBotsz
+WORKDIR /Obitoautofilter
 
 COPY requirements.txt ./
 
